@@ -1,0 +1,6 @@
+City Name   Population (Lakhs)    Area (Sq KM)    			
+Dehradun    5.78                  308.2          	5.78		308.2
+Delhi	190		1484
+Mumbai      124                   603.4          	124		603.4
+Chennai     46                    426            	46		426
+Lucknow     28                    631            	28		631
