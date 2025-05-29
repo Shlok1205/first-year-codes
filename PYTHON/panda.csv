@@ -1,0 +1,11 @@
+﻿Function,What it does,Use
+mean(),Calculates the average value.,To understand the central tendency of attempts.
+median(),Finds the middle value when data is sorted.,Useful when data has outliers or is skewed.
+mode(),Returns the most frequent value(s).,Helps spot common patterns or repeated values.
+min(),Finds the smallest value.,To check the lowest attempt made.
+max(),Finds the largest value.,To check the highest attempt made.
+std(),Calculates standard deviation.,Shows how much the data varies from the mean.
+var(),"Finds variance, which is the square of std.",Indicates data spread (larger = more spread out).
+count(),Counts non-null entries.,Useful for understanding sample size or missing values.
+sum(),Adds up all the values.,Sometimes used for totals or aggregations.
+quantile(0.5),"Gives the value at the 50th percentile, same as median.",You can change 0.5 to 0.25 (Q1) or 0.75 (Q3) for quartile analysis.

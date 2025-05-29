@@ -1,0 +1,16 @@
+try:
+    with open("city.txt", "r") as file:
+        data = file.read()
+        print(data)
+except FileNotFoundError:
+    print("The file does not exist. Please check the file name or path.")
+except PermissionError:
+    print("You don't have permission to access this file.")
+except IsADirectoryError:
+    print("The specified path is a directory, not a file.")
+except ValueError:
+    print("Invalid file mode specified. Please check the mode of operation.")
+except EOFError:
+    print("Unexpected End Of File reached during input.")
+except Exception as e:  
+    print(f"An unexpected error occurred: {e}")

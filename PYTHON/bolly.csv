@@ -1,0 +1,23 @@
+Rank,Movie Name,Year,Box Office (₹ Cr),Budget (₹ Cr),Director,Production Banner,Lead Actors,Verdict,Genre
+1,Dangal,2016,2024.00,70.00,Nitesh Tiwari,Aamir Khan Productions,"Aamir Khan, Sakshi Tanwar",All Time Blockbuster,Sports Drama
+2,Baahubali 2: The Conclusion,2017,1810.00,250.00,S.S. Rajamouli,Arka Media Works,"Prabhas, Anushka Shetty",All Time Blockbuster,Epic Action
+3,Jawan,2023,1168.00,300.00,Atlee,Red Chillies Entertainment,"Shah Rukh Khan, Nayanthara",All Time Blockbuster,Action Thriller
+4,Pathaan,2023,1050.50,250.00,Siddharth Anand,Yash Raj Films,"Shah Rukh Khan, Deepika Padukone",All Time Blockbuster,Spy Action
+5,Animal,2023,917.00,100.00,Sandeep Reddy Vanga,T-Series,"Ranbir Kapoor, Rashmika Mandanna",Blockbuster,Action Drama
+6,PK,2014,854.00,85.00,Rajkumar Hirani,Vinod Chopra Films,"Aamir Khan, Anushka Sharma",Blockbuster,Satirical Comedy
+7,Gadar 2,2023,686.53,75.00,Anil Sharma,Zee Studios,"Sunny Deol, Ameesha Patel",Blockbuster,Period Action
+8,Bajrangi Bhaijaan,2015,969.00,90.00,Kabir Khan,Salman Khan Films,"Salman Khan, Kareena Kapoor",Blockbuster,Drama
+9,Secret Superstar,2017,966.00,15.00,Advait Chandan,Aamir Khan Productions,"Zaira Wasim, Aamir Khan",Super Hit,Musical Drama
+10,Sultan,2016,623.33,70.00,Ali Abbas Zafar,Yash Raj Films,"Salman Khan, Anushka Sharma",Blockbuster,Sports Drama
+11,Sanju,2018,586.85,100.00,Rajkumar Hirani,Vinod Chopra Films,"Ranbir Kapoor, Paresh Rawal",Blockbuster,Biographical
+12,Padmaavat,2018,585.00,190.00,Sanjay Leela Bhansali,Bhansali Productions,"Ranveer Singh, Deepika Padukone",Blockbuster,Period Drama
+13,Tiger Zinda Hai,2017,565.00,150.00,Ali Abbas Zafar,Yash Raj Films,"Salman Khan, Katrina Kaif",Blockbuster,Spy Action
+14,War,2019,475.00,150.00,Siddharth Anand,Yash Raj Films,"Hrithik Roshan, Tiger Shroff",Blockbuster,Action Thriller
+15,Brahmāstra,2022,430.00,410.00,Ayan Mukerji,Dharma Productions,"Ranbir Kapoor, Alia Bhatt",Hit,Fantasy Action
+16,Andhadhun,2018,456.00,30.00,Sriram Raghavan,Matchbox Pictures,"Ayushmann Khurrana, Tabu",Super Hit,Black Comedy
+17,Kabir Singh,2019,379.00,60.00,Sandeep Reddy Vanga,T-Series,"Shahid Kapoor, Kiara Advani",Super Hit,Romantic Drama
+18,Uri: The Surgical Strike,2019,342.06,25.00,Aditya Dhar,RSVP Movies,"Vicky Kaushal, Yami Gautam",Super Hit,Military Action
+19,Drishyam 2,2022,345.00,50.00,Abhishek Pathak,Panorama Studios,"Ajay Devgn, Tabu",Super Hit,Crime Thriller
+20,The Kashmir Files,2022,340.00,15.00,Vivek Agnihotri,Zee Studios,"Anupam Kher, Darshan Kumaar",Super Hit,Political Drama
+...
+100,Ludo,2020,25.00,30.00,Anurag Basu,T-Series,"Abhishek Bachchan, Rajkummar Rao",Average,Anthology Comedy
